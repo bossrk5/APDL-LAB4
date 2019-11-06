@@ -1,1 +1,107 @@
 /COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       12:03:09
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       12:17:26
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       12:47:23
+
+ *** ERROR ***                           CP =       3.672   TIME= 12:52:42
+ An unexpected error ( SIG$SEGV ) has occurred...  ANSYS internal data   
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       12:52:58
+
+ *** ERROR ***                           CP =       2.953   TIME= 12:53:38
+ An unexpected error ( SIG$SEGV ) has occurred...  ANSYS internal data   
+ has been corrupted.  ANSYS is unable to recover and will terminate.     
+ Previously saved files are unaffected.  Please send the data leading    
+ to this operation to your technical support provider, as this will      
+ allow ANSYS, Inc to improve the program.                                
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       12:54:16
+
+ *** WARNING ***                         CP =       5.188   TIME= 13:13:54
+ The mesh of area 1 contains PLANE182 triangles, which are much too      
+ stiff in bending.  Use quadratic (6- or 8-node) elements if possible.   
+
+ *** WARNING ***                         CP =       8.156   TIME= 13:25:25
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =       8.828   TIME= 13:25:26
+ Pivoting has been activated for the Sparse Matrix solver.  The memory   
+ required may greatly exceed the predicted amount.  In that event, use   
+ the BCSOPTION command to change the memory mode and/or memory size      
+ used by the Sparse Matrix solver.                                       
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      23.141   TIME= 13:33:12
+ No new variables defined to store.                                      
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      25.359   TIME= 13:35:29
+ No new variables defined to store.                                      
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      25.375   TIME= 13:35:36
+ No new variables defined to store.                                      
+
+ *** WARNING ***                         CP =      26.703   TIME= 13:42:06
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      26.859   TIME= 13:42:07
+ Pivoting has been activated for the Sparse Matrix solver.  The memory   
+ required may greatly exceed the predicted amount.  In that event, use   
+ the BCSOPTION command to change the memory mode and/or memory size      
+ used by the Sparse Matrix solver.                                       
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      31.969   TIME= 13:43:08
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =      35.203   TIME= 13:45:07
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      35.359   TIME= 13:45:07
+ Pivoting has been activated for the Sparse Matrix solver.  The memory   
+ required may greatly exceed the predicted amount.  In that event, use   
+ the BCSOPTION command to change the memory mode and/or memory size      
+ used by the Sparse Matrix solver.                                       
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      38.516   TIME= 13:45:10
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***                         CP =      39.531   TIME= 13:46:29
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =      39.719   TIME= 13:46:29
+ Pivoting has been activated for the Sparse Matrix solver.  The memory   
+ required may greatly exceed the predicted amount.  In that event, use   
+ the BCSOPTION command to change the memory mode and/or memory size      
+ used by the Sparse Matrix solver.                                       
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      42.766   TIME= 13:46:32
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      44.719   TIME= 13:47:47
+ Cannot change number of variables with data stored.  The NUMVAR command 
+ is ignored.                                                             
+
+ *** WARNING ***   SUPPRESSED MESSAGE    CP =      45.312   TIME= 13:48:19
+ No new variables defined to store.                                      
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       13:51:38
+
+ *** WARNING ***                         CP =       1.703   TIME= 13:51:45
+ Both solid model and finite element model boundary conditions have been 
+ applied to this model.  As solid loads are transferred to the nodes or  
+ elements, they can overwrite directly applied loads.                    
+
+ *** WARNING ***                         CP =       1.938   TIME= 13:51:45
+ Pivoting has been activated for the Sparse Matrix solver.  The memory   
+ required may greatly exceed the predicted amount.  In that event, use   
+ the BCSOPTION command to change the memory mode and/or memory size      
+ used by the Sparse Matrix solver.                                       
