@@ -105,3 +105,69 @@
  required may greatly exceed the predicted amount.  In that event, use   
  the BCSOPTION command to change the memory mode and/or memory size      
  used by the Sparse Matrix solver.                                       
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       08:47:35
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       10:20:18
+
+ *** ERROR ***                           CP =       2.203   TIME= 10:29:16
+ Element 3 does not have all of its required nodes defined.  The E       
+ command is aborted.                                                     
+
+ *** ERROR ***                           CP =       2.250   TIME= 10:29:19
+ The E command cannot store element 3, possibly because one or more      
+ nodes is not defined.                                                   
+
+ *** WARNING ***                         CP =       2.828   TIME= 10:33:01
+ Nodes I and J of element 3 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =       2.828   TIME= 10:33:01
+ Nodes I and J of element 4 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =       5.422   TIME= 10:38:41
+ Nodes I and J of element 3 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =       5.422   TIME= 10:38:41
+ Nodes I and J of element 4 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =      10.000   TIME= 10:54:31
+ Nodes I and J of element 3 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =      10.000   TIME= 10:54:31
+ Nodes I and J of element 4 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =      10.000   TIME= 10:54:31
+ Nodes I and J of element 6 ( COMBIN14 ) are not coincident.             
+
+ *** ERROR ***                           CP =      11.938   TIME= 10:55:06
+ The eigenvalue extraction method must be specified on the MODOPT        
+ command.  Either the LANB, LANPCG, or SNODE method is usually           
+ recommended.                                                            
+
+ *** WARNING ***                         CP =      12.047   TIME= 10:55:12
+ Nodes I and J of element 3 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =      12.047   TIME= 10:55:12
+ Nodes I and J of element 4 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =      12.047   TIME= 10:55:12
+ Nodes I and J of element 6 ( COMBIN14 ) are not coincident.             
+
+ *** ERROR ***                           CP =      12.047   TIME= 10:55:12
+ The model data was checked and there were errors found.                 
+  Please check output or errors file ( D:\APDL-LAB4\lab4.err ) for       
+ messages.                                                               
+
+ *** WARNING ***                         CP =      12.219   TIME= 10:55:47
+ Nodes I and J of element 3 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =      12.219   TIME= 10:55:47
+ Nodes I and J of element 4 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =      12.219   TIME= 10:55:47
+ Nodes I and J of element 6 ( COMBIN14 ) are not coincident.             
+/COM,ANSYS RELEASE Release 17.0      BUILD 17.0      UP20151214       11:08:17
+
+ *** WARNING ***                         CP =       3.547   TIME= 11:19:15
+ Nodes I and J of element 2 ( COMBIN14 ) are not coincident.             
+
+ *** WARNING ***                         CP =       5.266   TIME= 11:21:21
+ Nodes I and J of element 2 ( COMBIN14 ) are not coincident.             
